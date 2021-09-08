@@ -1,6 +1,6 @@
 # Google Search Clone Built with Next.js
 
-**[Visit Website](https://google-search-clone-tau.vercel.app/)**
+**[Visit Website](https://google-search-clone-pearl.vercel.app/)**
 
 ![](img/google-search-clone.png)
 
