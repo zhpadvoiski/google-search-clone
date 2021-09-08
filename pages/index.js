@@ -38,7 +38,7 @@ export default function Home() {
           <p className="link">Images</p>
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
 
-          <Avatar url={"https://avatars.githubusercontent.com/u/79127001?s=400&u=b8fca5b4a651c6067d75962e8bf013d0e3b235a4&v=4"} />
+          <Avatar url={"https://avatars.githubusercontent.com/u/7442958?v=4"} />
         </div>
       </header>
 
